@@ -1,0 +1,69 @@
+*{
+    list-style: none;
+}
+.tmdrmq{
+    font-size: 2rem;
+}
+aside{
+    background-color: black !important;
+    padding-top: 4rem !important;
+}
+.fhf{
+    margin-left: -30%;
+}
+.masthead{
+    padding-top: 20.5rem;
+    padding-bottom: 16rem;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #ff0000;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+#mainNav .navbar-nav .nav-item .nav-link{
+    font-family : "Gothic A1";
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.over{
+    margin-left: 70px;
+}
+.brrt{
+    width: 180px;
+    margin-left: 40px;
+}
+.bat{
+    margin-left: 45px;
+}
+.dia,.mp{
+    margin-top: 45px;
+}
+.sa{
+    margin-top: 45px;
+}
+.fifa{
+    margin-top: 70px;
+}
+#swiper1{
+    width: 80%;
+    padding: 8px;
+    margin: 160px;
+}
+
+.swiper-pagination-bullet{
+    background-color: #86cbd9;
+}
+.swiper-button-prev, .swiper-button-next{
+    color: #86cbd9;
+    
+}
+
+.rhrh{
+    margin-left: 0 !important;
+    width: 100%;
+}
